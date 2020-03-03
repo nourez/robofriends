@@ -1,6 +1,4 @@
 import React from 'react';
-import { robots } from './robots';
-
 
 const SearchBox = ({ searchfield, searchChange }) => {
   return (
